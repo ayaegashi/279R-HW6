@@ -13,4 +13,12 @@ This to-do list app was created by following this online tutorial: https://svelt
 
 ## How to Open my To-Do List App
 
+I deployed my To-Do List App at https://ayana-todo-list.meteorapp.com/. This To-Do List app includes a login feature. I have created two logins which you can use to see how the web app allows for multiple independent lists.
 
+**Test Login 1**\
+Username: ayana\
+Password: password
+
+**Test Login 2**\
+Username: guest\
+Password: secure_password
