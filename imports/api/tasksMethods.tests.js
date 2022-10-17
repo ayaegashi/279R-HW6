@@ -5,6 +5,8 @@ import { assert } from 'chai';
 import { TasksCollection } from '/imports/db/TasksCollection';
 import '/imports/api/tasksMethods';
 
+/* Below are test cases to make sure that the database functionality works as expected */
+
 if (Meteor.isServer) {
   describe('Tasks', () => {
     describe('methods', () => {
